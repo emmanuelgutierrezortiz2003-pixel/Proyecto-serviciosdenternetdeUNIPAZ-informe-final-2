@@ -1,0 +1,1 @@
+# El diseño del sistema se enfocó en la estructura modular, escalable y mantenible. Para ello, se crearon modelos de datos que reflejan las relaciones entre las entidades principales del sistema, tales como usuarios, evaluaciones, criterios y reportes.
